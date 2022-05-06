@@ -16,3 +16,4 @@ public class Test {
 
     }
 }
+class T{}
