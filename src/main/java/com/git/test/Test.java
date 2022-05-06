@@ -15,6 +15,7 @@ public class Test {
         System.out.println("a4");
         System.out.println("a7");
         System.out.println("a9");
+        System.out.println("a9");
     }
     public void test(){
         
