@@ -15,5 +15,8 @@ public class Test {
         System.out.println("a4");
 
     }
+    public void test(){
+        
+    }
 }
 class T{}
