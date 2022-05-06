@@ -6,6 +6,6 @@ package com.git.test;
  **/
 public class Test {
     public static void main(String[] args) {
-        System.out.println("version2已经被我修复");
+        System.out.println("hello version2已经被我修复");
     }
 }
