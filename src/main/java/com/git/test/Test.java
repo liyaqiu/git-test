@@ -19,4 +19,6 @@ public class Test {
         
     }
 }
-class T{}
+class T{
+    String string;
+}
