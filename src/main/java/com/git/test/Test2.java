@@ -10,7 +10,7 @@ public class Test2 {
 
         System.out.println("master");
 
-        System.out.println("aaa");
+        System.out.println("q4444");
 
     }
     public void test(){
