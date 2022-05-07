@@ -11,7 +11,7 @@ public class Test {
         System.out.println("master");
 
         System.out.println("aaa1222111");
-
+        System.out.println("远程改的");
     }
     public void test(){
         
