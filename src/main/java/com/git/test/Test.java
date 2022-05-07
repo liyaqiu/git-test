@@ -12,6 +12,7 @@ public class Test {
 
         System.out.println("本地改的");
         System.out.println("远程改的");
+        System.out.println("远程改的");
     }
     public void test(){
         
