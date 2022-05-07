@@ -10,8 +10,8 @@ public class Test {
 
         System.out.println("master");
 
-        System.out.println("aaa");
-
+        System.out.println("本地改的");
+        System.out.println("远程改的");
     }
     public void test(){
         
